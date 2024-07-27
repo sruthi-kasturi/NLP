@@ -1,6 +1,6 @@
-# NLP-Sentiment-Insight
+# NLP-SentimentSeer
 
-Welcome to **NLP-Sentiment-Insight**! This repository is dedicated to sentiment classification using various NLP techniques and models. Our mission is to leverage advanced NLP methods to accurately classify sentiment in Twitter data.
+Welcome to **NLP-SentimentSeer**! This repository is dedicated to sentiment classification using various NLP techniques and models. Our mission is to leverage advanced NLP methods to accurately classify sentiment in Twitter data.
 
 ## Table of Contents
 
